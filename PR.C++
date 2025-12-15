@@ -5,7 +5,6 @@ using namespace std;
 const int max_book = 2000;
 const int in_book = 2;
 
-
 struct book {
     string title;
     string author;
@@ -198,13 +197,6 @@ int main(){
         }
         else{cout<<"invalid choice";}
 
-
-
-
-
     }
     return 0;
-
-
-
 }
